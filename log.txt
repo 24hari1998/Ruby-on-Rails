@@ -1,0 +1,15 @@
+
+Day 1
+{
+	Installation of Ruby on Rails with RBENV
+	{
+	  1)Update package
+	  2)Install node.js
+	  3)Install libraries for rbenv and ruby
+	  4)Install rbenv(Put it in bash shell as ENV variable)
+	  5)ruby install
+	  6)gem install
+	  7)rails install
+	  8)rbenv rehash
+	}
+}	
