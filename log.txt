@@ -13,3 +13,17 @@ Day 1
 	  8)rbenv rehash
 	}
 }	
+
+Day 2 
+{
+	Getting to know Ruby
+	{
+	1) Ruby basics
+	2) Flow control
+	3) Functions
+	4) Blocks
+	5) Files
+
+	Note: True , False , can pass more than 1 parametre using * , ( do and end ) Blocks used for iterators and passed to functions , times , each , various methods are there 
+	}
+}
